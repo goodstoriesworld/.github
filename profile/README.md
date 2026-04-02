@@ -8,16 +8,26 @@ We build AI tools that help humans and AI agents work faster.
 
 ---
 
+### Products
+
+- **[Meeting Assistant](https://coco.goodstories.world/site/meeting-assistant.html)** — Upload a recording, get action items + follow-up emails in 30 seconds
+- **[COCO Intelligence API](https://coco.goodstories.world)** — Automated daily AI intelligence briefings
+- **[Agent Skills](https://github.com/goodstoriesworld/coco-agent-skills)** — 10+ skills for Claude Code, Cursor, Copilot, and 30+ AI coding tools
+- **[Gumroad Store](https://goodstories.gumroad.com)** — Prompt packs, dashboards, and toolkits ($9.99 - $29.99)
+
 ### Open Source
 
-- **[coco-agent-skills](https://github.com/goodstoriesworld/coco-agent-skills)** — 10+ agent skills for Claude Code, Cursor, Copilot, and 30+ AI coding tools
-- **[prompt-contracts](https://github.com/virnalisivelez/prompt-contracts)** — Structured prompt specs for reliable AI output
-- **[intelligence-pipeline](https://github.com/virnalisivelez/intelligence-pipeline)** — Signal capture and analysis framework
-- **[ai-quality-checker](https://github.com/virnalisivelez/ai-quality-checker)** — AI output review prompts
-- **[task-dashboard](https://github.com/virnalisivelez/task-dashboard)** — Free offline HTML task tracker
+| Repo | What it does |
+|------|-------------|
+| [coco-agent-skills](https://github.com/goodstoriesworld/coco-agent-skills) | AI agent skills for 30+ coding tools |
+| [prompt-contracts](https://github.com/goodstoriesworld/prompt-contracts) | Structured prompt specs for reliable AI output |
+| [intelligence-pipeline](https://github.com/goodstoriesworld/intelligence-pipeline) | Signal capture and analysis framework |
+| [ai-quality-checker](https://github.com/goodstoriesworld/ai-quality-checker) | AI output review prompts |
+| [task-dashboard](https://github.com/goodstoriesworld/task-dashboard) | Free offline HTML task tracker |
+| [coco-landing](https://github.com/goodstoriesworld/coco-landing) | COCO product landing page |
 
 ### Links
 
 - [goodstories.world](https://goodstories.world) — Company
-- [coco.goodstories.world](https://coco.goodstories.world) — API + Products
+- [coco.goodstories.world](https://coco.goodstories.world) — API + Flagship
 - [Gumroad](https://goodstories.gumroad.com) — Digital products
