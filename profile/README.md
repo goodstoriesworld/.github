@@ -2,7 +2,7 @@
 
 We build AI tools that help humans and AI agents work faster.
 
-**Products:** Agent Skills, Meeting Assistant, Intelligence API, Machine Payments Protocol
+**Products:** Agent Skills, Meeting Assistant, Intelligence API, Machine Payments Protocol (developer preview)
 
 **Stack:** Python / FastAPI / Supabase / Claude / Stripe
 
@@ -10,10 +10,10 @@ We build AI tools that help humans and AI agents work faster.
 
 ### Products
 
-- **[Meeting Assistant](https://coco.goodstories.world/site/meeting-assistant.html)** — Upload a recording, get action items + follow-up emails in 30 seconds
-- **[COCO Intelligence API](https://coco.goodstories.world)** — Automated daily AI intelligence briefings
+- **[Meeting Assistant](https://goodstories.world/pricing)** — Upload a recording, get action items + follow-up emails in 30 seconds
+- **[COCÓ Intelligence](https://goodstories.world/pricing)** — Automated daily AI intelligence briefings
 - **[Agent Skills](https://github.com/goodstoriesworld/coco-agent-skills)** — 10+ skills for Claude Code, Cursor, Copilot, and 30+ AI coding tools
-- **[Gumroad Store](https://goodstories.gumroad.com)** — Prompt packs, dashboards, and toolkits ($9.99 - $29.99)
+- **[Gumroad Store](https://goodstories.gumroad.com)** — Prompt packs, dashboards, and toolkits — buy-once digital products
 
 ### Open Source
 
@@ -28,6 +28,6 @@ We build AI tools that help humans and AI agents work faster.
 
 ### Links
 
-- [goodstories.world](https://goodstories.world) — Company
-- [coco.goodstories.world](https://coco.goodstories.world) — API + Flagship
+- [goodstories.world](https://goodstories.world) — Company + Products
+- [API Docs](https://api.goodstories.world/docs) — Builder reference
 - [Gumroad](https://goodstories.gumroad.com) — Digital products
