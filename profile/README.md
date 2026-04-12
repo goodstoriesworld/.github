@@ -10,8 +10,8 @@ We build AI tools that help humans and AI agents work faster.
 
 ### Products
 
-- **[Meeting Assistant](https://goodstories.world/meetings)** — Upload a recording, get action items + follow-up emails in 30 seconds
-- **[COCÓ Intelligence](https://goodstories.world/intelligence)** — Automated daily AI intelligence briefings
+- **[Meeting Assistant](https://goodstories.world/pricing)** — Upload a recording, get action items + follow-up emails in 30 seconds
+- **[COCÓ Intelligence](https://goodstories.world/pricing)** — Automated daily AI intelligence briefings
 - **[Agent Skills](https://github.com/goodstoriesworld/coco-agent-skills)** — 10+ skills for Claude Code, Cursor, Copilot, and 30+ AI coding tools
 - **[Gumroad Store](https://goodstories.gumroad.com)** — Prompt packs, dashboards, and toolkits — buy-once digital products
 
